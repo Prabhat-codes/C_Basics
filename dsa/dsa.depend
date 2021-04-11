@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601143355 source:c:\users\pankaj1\desktop\c\dsa\first.c
+	<stdio.h>
+
+1601143274 source:c:\users\pankaj1\desktop\c\dsa\second.c
+	<stdio.h>
+

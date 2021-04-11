@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601926507 source:c:\users\pankaj1\desktop\c\stackbasic\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601926988 source:e:\things i did\c\stackbasic\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603539633 source:c:\users\pankaj1\desktop\c\linkedlists_queues_stacks\main.c
+	<stdio.h>
+	<stdlib.h>
+

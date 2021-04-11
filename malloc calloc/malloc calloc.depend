@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601670961 source:c:\users\pankaj1\desktop\c\malloc calloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601667220 source:c:\users\pankaj1\desktop\c\malloc calloc\try.c
+	<stdio.h>
+
+1601667220 source:c:\users\pankaj1\desktop\c\malloc calloc\mint.c
+	<stdio.h>
+
+1601667506 source:c:\users\pankaj1\desktop\c\malloc calloc\mfloat.c
+	<stdio.h>
+
+1601670945 source:c:\users\pankaj1\desktop\c\malloc calloc\2d_array.c
+	<stdio.h>
+
